@@ -1,0 +1,31 @@
+types of numbers
+5 (int)
+5.1 (double)
+5.1f (float)
+
+Array
+
+  Building an Array
+int agePerson1 = 6;
+int agePerson2= 34;
+int agePerson3= 12;
+
+int{} peopleAges = new int[30]
+
+Color{} color = new color [8]
+
+  Setting Information into the Array
+
+peoplesAges[0] = 6;
+peoplesAges[1] = 34;
+peoplesAges[2] = 12;
+
+color{0} = Color.BLUE;
+color{1} = Color.GREEN;
+color{0} = new Color(0.0f);
+color{0} = new Color(0.1f);
+
+  Iterating over an Array
+for (int i = 0; i < colors.lenght: i++) {
+  color[i] = new color(?);
+}
